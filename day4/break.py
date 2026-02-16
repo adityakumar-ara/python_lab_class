@@ -13,3 +13,14 @@
 #     print(item)
 # else:
 #     print("list element print done")    
+
+
+lst = [1,2,3,4,5,6,7,8,9]
+n = int(input("Enter number to search: "))
+
+for index in range(len(lst)):
+    if lst[index] == n:
+        print("Your number is found at index", index)
+        break
+else:
+    print("Number not found")
