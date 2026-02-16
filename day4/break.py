@@ -7,3 +7,9 @@
 #     print(i)
 # else:
 #     print("done")    
+
+# list = {1,2,3,4,5}
+# for item in list:
+#     print(item)
+# else:
+#     print("list element print done")    
