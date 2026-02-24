@@ -8,4 +8,11 @@
 #         oddnsum=+i 
 
 # print(evensum)        
-# print(oddnsum)        
+# print(oddnsum)  
+    
+list = []
+n = int(input("enter number"))
+for i in range (1,n):
+    m = int(input("enter elements"))
+    list.append(m)    
+print(list)    
