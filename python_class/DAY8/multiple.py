@@ -8,14 +8,14 @@
 #         print(n)
 #     n+=1
 
-n = 1
-num = 50
-while(n<=num):
-    if n %5 == 0:
-        n+=1
-        continue
+# n = 1
+# num = 50
+# while(n<=num):
+#     if n %5 == 0:
+#         n+=1
+#         continue
 
-    else:
-        print(n)
-        n+=1
+#     else:
+#         print(n)
+#         n+=1
     

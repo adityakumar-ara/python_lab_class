@@ -13,4 +13,8 @@ elif a==2:
    m = input("enter new word")
    print(string.replace(s,m))   
 elif a == 3:
-   
+   print(string[1:])
+else:
+   new_str = string[:]
+   string = "" 
+   print("String cleared:", string)
