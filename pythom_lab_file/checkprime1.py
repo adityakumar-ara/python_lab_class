@@ -11,3 +11,6 @@
 # b = int(input("enter any number"))        
 # checkprime(b)
 
+
+
+# print(0.7+0.2==0.9)
