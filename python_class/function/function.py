@@ -1,3 +1,3 @@
-def name():
-    print("Hello, aditya!")
-name()     
+# def name():
+#     print("Hello, aditya!")
+# name()     
