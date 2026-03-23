@@ -24,6 +24,8 @@
 # else:
 #     print("not armstong number")    
 
+
+
 # num = int(input("enter number"))
 # order = len(str(num))
 # sum = 0
