@@ -3,5 +3,5 @@ my_dict = {
     "age":20
 }
 print("Before update",my_dict)
-my_dict.update({"age": 41})
+my_dict.update({"age": 41 , "village":"hardiya"})
 print("after update",my_dict)
